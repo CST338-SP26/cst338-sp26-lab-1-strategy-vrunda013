@@ -1,4 +1,5 @@
 import java.util.Objects;
+import java.util.HashMap;
 
 public abstract class Monster{
 
@@ -41,8 +42,5 @@ public abstract class Monster{
     public String toString(){
 
     }
-
-
-
 
 }
